@@ -6,7 +6,7 @@ it's monokai, for appcode.
 it's still work-in-progress so things won't always look awesome, help me out if you can.
 
 ##Look, here is a screenshot
-![Monokai Screenshot](https://github.com/hezi/monokai-appcode/raw/master/screenshot.png)
+![Monokai Screenshot](https://github.com/goaway/monokai-appcode/raw/master/screenshot.png)
 
 
 ##How to install
